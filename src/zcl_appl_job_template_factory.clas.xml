@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_APPL_JOB_TEMPLATE_FACTORY</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Template Generator class for application jobs</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_APPL_JOB_TEMPLATE_FACTORY</CLSNAME>
+     <CMPNAME>CREATE_JOB_CATALOG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Creates application job catalog entry</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_APPL_JOB_TEMPLATE_FACTORY</CLSNAME>
+     <CMPNAME>CREATE_JOB_TEMPLATE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Creates application job template entry</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
